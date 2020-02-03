@@ -22,7 +22,7 @@ class Base(models.Model):
 class Servico(Base):
     ICONE_CHOICES = (
         ('lni-cog', 'Engrenagem'),
-        ('lni-stats', 'Gráfico'),
+        ('lni-stats-up', 'Gráfico'),
         ('lni-users', 'Usuários'),
         ('lni-layers', 'Design'),
         ('lni-mobile', 'Mobile'),
