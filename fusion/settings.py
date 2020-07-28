@@ -152,3 +152,5 @@ DEFAULT_FROM_EMAIL = 'contato@fusion.com.br'
 
 
 LOGOUT_REDIRECT_URL = 'index'
+
+
